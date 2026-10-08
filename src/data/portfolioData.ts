@@ -18,8 +18,8 @@ export const personalInfo = {
   email: 'adarshsingh097singh@gmail.com',
   phone: '+91-9336019980',
   location: 'Ghaziabad, Uttar Pradesh, India',
-  profilePhoto: '/adarsh-profile.png',
-  resumeUrl: '/Adarsh_Shekhar_Singh_Resume.pdf'
+  profilePhoto: './adarsh-profile.png',
+  resumeUrl: './Adarsh_Shekhar_Singh_Resume.pdf'
 };
 
 export const education: Education = {
